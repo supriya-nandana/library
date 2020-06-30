@@ -13,11 +13,13 @@ import com.example.demo.exceptions.InvalidCredentialsException;
 import com.example.demo.service.UserService;
 
 /**
- * @author supriya
+ * @author supriya,manasa
  *
  */
 @RestController
 public class UserController {
+//user contoller
+
 
 	private static Log logger = LogFactory.getLog(UserController.class);
 
