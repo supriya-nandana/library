@@ -13,6 +13,8 @@ import javax.persistence.Id;
 @Entity
 public class User {
 
+//this is user class model
+
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int userId;
